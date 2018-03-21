@@ -1,5 +1,5 @@
 CC= gcc
-FLAGS= -lSDL -lSDLmain -lSDL_image -Wall
+FLAGS= -lm -lSDL -lSDLmain -lSDL_image -Wall
 
 all: Nazcolique
 
